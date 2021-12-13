@@ -194,4 +194,6 @@ enum class DogBreedsEnum {
     94. South African Boerboel
     95. Japanese Chin
      */
+
+    AUSTRALIAN_SHEPHERD
 }
