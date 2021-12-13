@@ -18,6 +18,18 @@ package com.vt_shabanoff.petsapp.domen
 16.	Сфинкс
 17.	Турецкая ангора
 18.	Шотландская вислоухая кошка
+7. Cornish Rex
+8. Maine Coon
+9. Norwegian Forest cat
+10. Persian cat
+11. Russian blue cat
+12. Ragdoll
+13. Savannah
+14. Siamese cat
+15. Siberian cat
+16. The Sphinx
+17. Turkish Angora
+18. Scottish fold cat
      */
 
 enum class CatBreedsEnum {
@@ -25,5 +37,18 @@ enum class CatBreedsEnum {
     BENGAL_CAT,
     BURMESE_CAT,
     BRITISH_SHORTHAIR_CAT,
-
+    DEVON_REX,
+    EGIPTIAN_MAU,
+    CORNISH_REX,
+    MAINE_COON,
+    NORWEGIAN_FOREST_CAT,
+    PERSIAN_CAT,
+    RUSSIAN_BLUE_CAT,
+    RAGDOLL,
+    SAVANNAH,
+    SIAMESE_CAT,
+    SIBERIAN_CAT,
+    SPHINX,
+    TURKISH_ANGORA,
+    SCOTTISH_FOLD_CAT
 }
