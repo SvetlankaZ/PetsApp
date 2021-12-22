@@ -1,4 +1,4 @@
-package com.vt_shabanoff.petsapp.domen
+package com.vt_shabanoff.petsapp.domen.enum_classes
 /*
     1.	Абиссинская кошка
 2.	Бенгальская кошка

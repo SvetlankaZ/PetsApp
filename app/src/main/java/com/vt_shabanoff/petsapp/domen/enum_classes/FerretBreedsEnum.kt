@@ -1,4 +1,4 @@
-package com.vt_shabanoff.petsapp.domen
+package com.vt_shabanoff.petsapp.domen.enum_classes
 
 enum class FerretBreedsEnum {
     FERRET_BLACK_FOOTED,
