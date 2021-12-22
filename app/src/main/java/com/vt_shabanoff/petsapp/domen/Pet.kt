@@ -9,5 +9,6 @@ data class Pet(
     val name: String,
     val passport: Boolean,
     val countMating: Int,
-    val photoPets: List<Image>
+    val photoPets: List<Image>,
+    val id: Long
 )
