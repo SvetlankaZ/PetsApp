@@ -97,103 +97,97 @@ enum class DogBreedsEnum {
     93. Эстонская гончая
     94. Южноафриканский бурбуль
     95. Японский хин
-
-    1. Australian Shepherd
-    2. Akita Inu
-    3. Alabai
-    4. Alaskan Malamute
-    5. Alaskan Malamute
-    6. American Bulldog
-    7. American Bulldogs (ambuli)
-    8. American Cocker Spaniel
-    9. American Pit Bull Terrier
-    10. American Pit Bull Terrier
-    11.American staffordshire terrier
-    12. English Bulldog
-    13. English Mastiff
-    14. Dogo Argentino
-    15. Basenji
-    16. Basset Hound
-    17. Belgian Shepherd
-    18. Bernese Mountain Dog
-    19. Beagle
-    20. Bichon Frize
-    21. Bobtail
-    22. Boxer
-    23. Border Collie
-    24. Dogue de Bordeaux
-    25. Beauceron
-    26. Boston-terrier
-    27. Brussels Griffon
-    28. Bullmastiff
-    29. Bull Terrier
-    30. Weimaraner
-    31. Welsh Corgi
-    32. West Highland White Terrier
-    33. Wolfdog
-    34. Greyhound
-    35. Dalmatian
-    36. Jack Russell Terrier
-    37. Doberman Pinscher
-    38. Drathaar
-    39. Golden Retriever
-    40. Irish Wolfhound
-    41. Irish Setter
-    42. Yorkshire Terrier
-    43. Ca de Bo
-    44. Cavalier King Charles Spaniel
-    45. Caucasian Shepherd Dog
-    46. ​​Cane Corso
-    47. Miniature Pinscher
-    48. Chinese Crested
-    49. Cocker Spaniel
-    50. Collie
-    51. Kurzhaar
-    52. Labrador Retriever
-    53. Italian Greyhound
-    54. Leonberger
-    55. Maltese lapdog
-    56. Pug
-    57.Moscow watchdog
-    58. Neapolitan Mastiff
-    59. German Shepherd
-    60. Great Dane
-    61. German Jagdterrier
-    62. Newfoundland
-    63. Papillon
-    64. Pekingese
-    65. Pomeranian
-    66. Poodle
-    67. Giant Schnauzer
-    68. Rhodesian Ridgeback
-    69. Rottweiler
-    70. Russian Greyhound
-    71. Russian Hound
-    72.Russian hunting spaniel
-    73. Russian Toy Terrier
-    74. Black Russian Terrier
-    75. Samoyed Dog
-    76. St. Bernard
-    77. Shiba Inu
-    78. Siberian Husky
-    79. Staffordshire Bull Terrier
-    80. Dachshund
-    81. Tibetan Mastiff
-    82. Whippet
-    83. Fox Terrier
-    84. French Bulldog
-    85. Miniature Schnauzer
-    86. Chow Chow
-    87.Chihuahua
-    88. Shar Pei
-    89. Sheltie
-    90. Shih Tzu
-    91. Schnauzer
-    92. Airedale
-    93. Estonian Hound
-    94. South African Boerboel
-    95. Japanese Chin
-     */
-
-    AUSTRALIAN_SHEPHERD
+*/
+    AUSTRALIAN_SHEPHERD,
+    AKITA_INU,
+    ALABAI,
+    ALASKAN_MALAMUTE,
+    AMERICAN_BULLDOG,
+    AMERICAN_COCKER_SPANIEL,
+    AMERICAN_PIT_BULL_TERRIER,
+    AMERICAN_STAFFORDSHIRE_TERRIER,
+    ENGLISH_BULLDOG,
+    ENGLISH_MASTIFF,
+    DOGO_ARGENTINO,
+    BASENJI,
+    BASSET_HOUND,
+    BELGIAN_SHEPHERD,
+    BERNESE_MOUNTAIN_DOG,
+    BEAGLE,
+    BICHON_FRIEZE,
+    BOBTAIL,
+    BOXER,
+    BORDER_COLLIE,
+    DOGUE_DE_BORDEAUX,
+    BEAUCERON,
+    BOSTON_TERRIER,
+    BRUSSELS_GRIFFON,
+    BULLMASTIFF,
+    BULL_TERRIER,
+    WEIMARANER,
+    WELSH_CORGI,
+    WEST_HIGHLAND_WHITE_TERRIER,
+    WOLFDOG,
+    GREYHOUND,
+    DALMATIAN,
+    JACK_RUSSELL_TERRIER,
+    DOBERMAN_PINSCHER,
+    DRATHAAR,
+    GOLDEN_RETRIEVER,
+    IRISH_WOLFHOUND,
+    IRISH_SETTER,
+    YORKSHIRE_TERRIER,
+    CA_DE_BO,
+    CAVALIER_KING_CHARLES_SPANIEL,
+    CAUCASIAN_SHEPHERD_DOG,
+    CANE_CORSO,
+    MINIATURE_PINSCHER,
+    CHINESE_CRESTED,
+    COCKER_SPANIEL,
+    COLLIE,
+    KURZHAAR,
+    LABRADOR_RETRIEVER,
+    ITALIAN_GREYHOUND,
+    LEONBERGER,
+    MALTESE_LAPDOG,
+    PUG,
+    MOSCOW_WATCHDOG,
+    NEAPOLITAN_MASTIFF,
+    GERMAN_SHEPHERD,
+    GREAT_DANE,
+    GERMAN_JAGDTERRIER,
+    NEWFOUNDLAND,
+    PAPILLON,
+    PEKINGESE,
+    POMERANIAN,
+    POODLE,
+    GIANT_SCHNAUZER,
+    RHODESIAN_RIDGEBACK,
+    ROTTWEILER,
+    RUSSIAN_GREYHOUND,
+    RUSSIAN_HOUND,
+    RUSSIAN_HUNTING_SPANIEL,
+    RUSSIAN_TOY_TERRIER,
+    BLACK_RUSSIAN_TERRIER,
+    SAMOYED_DOG,
+    SAINT__BERNARD,
+    SHIBA_INU,
+    SIBERIAN_HUSKY,
+    STAFFORDSHIRE_BULL_TERRIER,
+    DACHSHUND,
+    TIBETAN_MASTIFF,
+    WHIPPET,
+    FOX_TERRIER,
+    FRENCH_BULLDOG,
+    MINIATURE_SCHNAUZER,
+    CHOW_CHOW,
+    CHIHUAHUA,
+    SHAR_PEI,
+    SHELTIE,
+    SHIH_TZU,
+    SCHNAUZER,
+    AIREDALE,
+    ESTONIAN_HOUND,
+    SOUTH_AFRICAN_BOERBOEL,
+    JAPANESE_CHIN
 }
